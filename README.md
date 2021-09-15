@@ -1,10 +1,10 @@
 # OPA SUITE + PYTHON + MONGODB
 
-![image](https://user-images.githubusercontent.com/23584038/128613485-10e750c9-e0a4-4cdb-84d4-b99ed7ab4aa9.png)
+![image](https://user-images.githubusercontent.com/23584038/133458335-1026ebd5-29a2-485b-baf9-34370136e3cd.png)
 
-![image](https://user-images.githubusercontent.com/23584038/128373763-ffbb7def-8089-4e82-87d7-4039c2b2de86.png)
+![image](https://user-images.githubusercontent.com/23584038/133458485-4d4691e6-cd1a-469e-bdd5-bb61eb518a77.png)
 
-![image](https://user-images.githubusercontent.com/23584038/129038880-5b06cd0f-ecfe-4cd9-991a-e15ba9ec333b.png)
+![image](https://user-images.githubusercontent.com/23584038/133458691-c5ce6afb-d21a-4392-b284-6a801bf07ba0.png)
 
 ## ZABBIX-AGENT
 
