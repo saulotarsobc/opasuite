@@ -74,7 +74,7 @@ nano /home/scripts/opaSuite.py
 
 > Copie o código em python e cole no servidor
 
-- [Script em Python]([./recursos/python/opaSuite.py](https://github.com/saulotarsobc/opasuite_zabbix_py#saulo-costa---telegram))
+- [Script em Python](https://github.com/saulotarsobc/opasuite_zabbix_py#saulo-costa---telegram)
 
 > Teste se o script está retornando os dados do MondoDB
 
