@@ -151,8 +151,8 @@ $[?(@.setor.oid == "{#ID_DEPARTAMENTO}")].length()
 
 > Obtenha...
 
-- Script em Python
+- [Script em Python](https://t.me/saulos2costa/ "telegram")
 
-- Dashboard do Grafana
+- [Dashboard do Grafana](https://t.me/saulos2costa/ "telegram")
 
-- Template do Zabbix
+- [Template do Zabbix](https://t.me/saulos2costa/ "telegram")
